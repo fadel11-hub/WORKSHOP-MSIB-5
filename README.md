@@ -1,5 +1,5 @@
 # WORKSHOP-MSIB-5
-WORKSHOP MSIB 5 Di Universitas Muhammadiyah Jakarta
+WORKSHOP MSIB 5 Universitas Muhammadiyah Jakarta
 
 
 # Dataset 
